@@ -13007,7 +13007,37 @@
    },
    "items": 1036,
    "fetched": "2026-10-13 12:46 IST"
+  },
+  "2026-10-14": {
+   "files": {
+    "Guwahati|I|main": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 11:35:53 GMT",
+     "sha": "2407d62d48c47658",
+     "bytes": 131810,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Guwahati%20Bench%20-%20Court%20No.%20I%20%E2%80%93%2014%20Oct%202026.pdf",
+     "loc": "Guwahati",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List - Guwahati Bench - Court No. I – 14 Oct 2026",
+     "count": 15
+    },
+    "New Delhi|I|main": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 11:27:20 GMT",
+     "sha": "cd4fbebe69eca923",
+     "bytes": 415681,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Re-notified%20Cause%20List%20%20Principal%20Bench%20New%20Delhi-%2014%20Octo%202026.pdf",
+     "loc": "New Delhi",
+     "court": "I",
+     "kind": "main",
+     "title": "Re-notified Cause List-Principal Bench New Delhi- 14 Octo 2026",
+     "count": 12
+    }
+   },
+   "items": 27,
+   "fetched": "2026-10-13 17:14 IST"
   }
  },
- "updated": "2026-10-13 13:12 IST"
+ "updated": "2026-10-13 17:14 IST"
 }

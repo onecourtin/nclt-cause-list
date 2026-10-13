@@ -13250,18 +13250,6 @@
      "title": "Cause List - Mumbai Bench - Court No.IV - 14 October 2026",
      "count": 89
     },
-    "Mumbai|IV|main|2": {
-     "etag": "",
-     "modified": "Tue, 13 Oct 2026 12:15:28 GMT",
-     "sha": "346a1358152ec04c",
-     "bytes": 497264,
-     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Mumbai%20Bench%20-%20Court%20No.IV%20-%20%2014%20October%202026.pdf",
-     "loc": "Mumbai",
-     "court": "IV",
-     "kind": "main",
-     "title": "Cause List - Mumbai Bench - Court No.IV - 14 October 2026",
-     "count": 89
-    },
     "New Delhi|V|main": {
      "etag": "",
      "modified": "Tue, 13 Oct 2026 12:14:57 GMT",
@@ -13381,11 +13369,107 @@
      "kind": "main",
      "title": "Cause List-Chennai Bench Court 1- 14 OCT 2026",
      "count": 38
+    },
+    "Mumbai|V|main": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 13:00:25 GMT",
+     "sha": "85805d7dca6e19ef",
+     "bytes": 638953,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20%E2%80%93%20Mumbai%20Bench%20%E2%80%93%20Court%20No.%20V%20%E2%80%93%2014%20Oct%20%202026.pdf",
+     "loc": "Mumbai",
+     "court": "V",
+     "kind": "main",
+     "title": "Cause List – Mumbai Bench – Court No. V – 14 Oct 2026",
+     "count": 34
+    },
+    "Allahabad|I|main": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 12:58:13 GMT",
+     "sha": "d82e664c8491cdb1",
+     "bytes": 832199,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Allahabad%20Bench%20-%20%2014%20Oct%202026.pdf",
+     "loc": "Allahabad",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List- Allahabad Bench - 14 Oct 2026",
+     "count": 64
+    },
+    "Mumbai|III|main": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 12:57:33 GMT",
+     "sha": "9541e5b08d49a164",
+     "bytes": 802224,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Mumbai%20Bench%20-%20Court%20No.%20III%20-%2014%20OCT%20%202026.pdf",
+     "loc": "Mumbai",
+     "court": "III",
+     "kind": "main",
+     "title": "Cause List - Mumbai Bench - Court No. III - 14 OCT 2026",
+     "count": 43
+    },
+    "Kolkata|III|main": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 12:54:26 GMT",
+     "sha": "c8f2c3fd1e49b54c",
+     "bytes": 160325,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-%20Kolkata%20Bench-Court%20No.%20III-%2014%20Oct%202026.pdf",
+     "loc": "Kolkata",
+     "court": "III",
+     "kind": "main",
+     "title": "Cause List- Kolkata Bench-Court No. III- 14 Oct 2026",
+     "count": 27
+    },
+    "Kolkata|II|main": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 12:57:22 GMT",
+     "sha": "0c7d12ddd7094c84",
+     "bytes": 365907,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-Kolkata%20Bench-Court%20No.%20II-%2014%20Oct.%202026.pdf",
+     "loc": "Kolkata",
+     "court": "II",
+     "kind": "main",
+     "title": "Cause List-Kolkata Bench-Court No. II- 14 Oct. 2026",
+     "count": 78
+    },
+    "Kolkata|III|special": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 12:59:04 GMT",
+     "sha": "52c17d2ce102e612",
+     "bytes": 247683,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-Special%20Bench-Kolkata%20Bench-Court%20No.%20III-14%20Oct.%202026.pdf",
+     "loc": "Kolkata",
+     "court": "III",
+     "kind": "special",
+     "title": "Cause List-Special Bench-Kolkata Bench-Court No. III-14 Oct. 2026",
+     "count": 1
+    },
+    "Kolkata|II|special": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 13:00:56 GMT",
+     "sha": "52c17d2ce102e612",
+     "bytes": 247683,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-Special%20Bench-Kolkata%20Bench-Court%20No.%20III-14%20Oct.%202026_0.pdf",
+     "loc": "Kolkata",
+     "court": "II",
+     "kind": "special",
+     "title": "Cause List-Special Bench-Kolkata Bench-Court No. III-14 Oct. 2026",
+     "count": 1
+    },
+    "Mumbai|V|supp": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 12:59:36 GMT",
+     "sha": "2e8665b8ce88457b",
+     "bytes": 584468,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Supplementary%20Cause%20List%20%E2%80%93%20Mumbai%20Bench%20%E2%80%93%20Court%20No.%20V%20%28Special%20Bench%29%20%E2%80%93%2014%20Oct%202026.pdf",
+     "loc": "Mumbai",
+     "court": "V",
+     "kind": "supp",
+     "title": "Supplementary Cause List – Mumbai Bench – Court No. V (Special Bench) – 14 Oct 2026",
+     "count": 2
     }
    },
-   "items": 992,
-   "fetched": "2026-10-13 18:25 IST"
+   "items": 1124,
+   "fetched": "2026-10-13 18:47 IST"
   }
  },
- "updated": "2026-10-13 18:26 IST"
+ "updated": "2026-10-13 18:47 IST"
 }

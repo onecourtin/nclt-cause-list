@@ -13252,15 +13252,15 @@
     },
     "New Delhi|V|main": {
      "etag": "",
-     "modified": "Tue, 13 Oct 2026 12:14:57 GMT",
-     "sha": "d1294afa1b21d922",
-     "bytes": 496735,
-     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No.%20V%20-%2014%20Oct%202026.pdf",
+     "modified": "Wed, 14 Oct 2026 06:08:05 GMT",
+     "sha": "8e95fa5a25519a7a",
+     "bytes": 469602,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No.%20V%20%28For%20Pronouncement%29-%2014-Oct-2026_0.pdf",
      "loc": "New Delhi",
      "court": "V",
      "kind": "main",
-     "title": "Cause List - New Delhi Bench - Court No. V - 14 Oct 2026",
-     "count": 35
+     "title": "Cause List - New Delhi Bench - Court No. V (For Pronouncement)- 14-Oct-2026",
+     "count": 8
     },
     "New Delhi|VI|main": {
      "etag": "",
@@ -13465,11 +13465,23 @@
      "kind": "supp",
      "title": "Supplementary Cause List – Mumbai Bench – Court No. V (Special Bench) – 14 Oct 2026",
      "count": 2
+    },
+    "New Delhi|V|main|2": {
+     "etag": "",
+     "modified": "Tue, 13 Oct 2026 12:14:57 GMT",
+     "sha": "d1294afa1b21d922",
+     "bytes": 496735,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No.%20V%20-%2014%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "V",
+     "kind": "main",
+     "title": "Cause List - New Delhi Bench - Court No. V - 14 Oct 2026",
+     "count": 35
     }
    },
-   "items": 1124,
-   "fetched": "2026-10-13 18:47 IST"
+   "items": 1132,
+   "fetched": "2026-10-14 11:57 IST"
   }
  },
- "updated": "2026-10-13 18:47 IST"
+ "updated": "2026-10-14 11:57 IST"
 }

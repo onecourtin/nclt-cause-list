@@ -13481,7 +13481,61 @@
    },
    "items": 1132,
    "fetched": "2026-10-14 11:57 IST"
+  },
+  "2026-10-15": {
+   "files": {
+    "Guwahati|I|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 11:30:42 GMT",
+     "sha": "e9325a7c0173a940",
+     "bytes": 123950,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Guwahati%20Bench%20-%20Court%20No.%20I%20%E2%80%93%2015%20Oct%202026.pdf",
+     "loc": "Guwahati",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List - Guwahati Bench - Court No. I – 15 Oct 2026",
+     "count": 8
+    },
+    "Hyderabad|II|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 11:28:03 GMT",
+     "sha": "00c7dfa27097c8ca",
+     "bytes": 369313,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Hyderabad%20Bench%20-%20Court%20No%20II%20-%2015%20Oct%202026.pdf",
+     "loc": "Hyderabad",
+     "court": "II",
+     "kind": "main",
+     "title": "Cause List - Hyderabad Bench - Court No II - 15 Oct 2026",
+     "count": 34
+    },
+    "Indore|I|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 11:56:18 GMT",
+     "sha": "e74b1d2f4295490d",
+     "bytes": 103287,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Indore%20Bench%20-%2015%20Oct%202026.pdf",
+     "loc": "Indore",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List - Indore Bench - 15 Oct 2026",
+     "count": 31
+    },
+    "Mumbai|I|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 11:48:41 GMT",
+     "sha": "b3d3867c3b19d1ec",
+     "bytes": 670173,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Mumbai%20Bench%20-%20Court%20No.%20I%20-%2015%20Oct%202026.pdf",
+     "loc": "Mumbai",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List - Mumbai Bench - Court No. I - 15 Oct 2026",
+     "count": 47
+    }
+   },
+   "items": 120,
+   "fetched": "2026-10-14 17:27 IST"
   }
  },
- "updated": "2026-10-14 11:57 IST"
+ "updated": "2026-10-14 17:28 IST"
 }

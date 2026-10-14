@@ -13867,11 +13867,35 @@
      "kind": "rule63",
      "title": "Rule 63 Appeal Cause List - Hyderabad Bench - Court No II - 15 Oct 2026",
      "count": 1
+    },
+    "Mumbai|II|special|2": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 13:19:53 GMT",
+     "sha": "43effe4de9825322",
+     "bytes": 581460,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/CAUSE%20LIST%20-%20Mumbai%20-%20Bench%20-%20Court%20No.%20-II%2015%20Oct%202026%20SPECIAL%20BENCH.pdf",
+     "loc": "Mumbai",
+     "court": "II",
+     "kind": "special",
+     "title": "CAUSE LIST - Mumbai - Bench - Court No. -II 15 Oct 2026 SPECIAL BENCH",
+     "count": 47
+    },
+    "Mumbai|III|single": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 13:13:31 GMT",
+     "sha": "ebdaac241201eb72",
+     "bytes": 588642,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Mumbai%20Bench%20-%20Court%20No.%20III%20-%2015%20OCT%20%202026%20SINGLE%20BENCH.pdf",
+     "loc": "Mumbai",
+     "court": "III",
+     "kind": "single",
+     "title": "Cause List - Mumbai Bench - Court No. III - 15 OCT 2026 SINGLE BENCH",
+     "count": 1
     }
    },
-   "items": 976,
-   "fetched": "2026-10-14 18:39 IST"
+   "items": 1024,
+   "fetched": "2026-10-14 18:57 IST"
   }
  },
- "updated": "2026-10-14 18:40 IST"
+ "updated": "2026-10-14 18:57 IST"
 }

@@ -13531,11 +13531,131 @@
      "kind": "main",
      "title": "Cause List - Mumbai Bench - Court No. I - 15 Oct 2026",
      "count": 47
+    },
+    "New Delhi|I|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 12:16:04 GMT",
+     "sha": "9955b208017b149d",
+     "bytes": 443876,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20%20Principal%20Bench%20New%20Delhi-%2015%20Octo%202026.pdf",
+     "loc": "New Delhi",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List-Principal Bench New Delhi- 15 Octo 2026",
+     "count": 44
+    },
+    "Mumbai|V|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 12:18:33 GMT",
+     "sha": "34b3a4b93a7eb474",
+     "bytes": 678186,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20%E2%80%93%20Mumbai%20Bench%20%E2%80%93%20Court%20No.%20V%20%E2%80%93%2015%20Oct%20%202026.pdf",
+     "loc": "Mumbai",
+     "court": "V",
+     "kind": "main",
+     "title": "Cause List – Mumbai Bench – Court No. V – 15 Oct 2026",
+     "count": 43
+    },
+    "New Delhi|IV|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 12:19:23 GMT",
+     "sha": "8610a2a0b1b0ae11",
+     "bytes": 410240,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20%E2%80%93%20New%20Delhi%20Bench%20%E2%80%93%20Court%20No.%20IV%20%E2%80%93%2015%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "IV",
+     "kind": "main",
+     "title": "Cause List – New Delhi Bench – Court No. IV – 15 Oct 2026",
+     "count": 23
+    },
+    "Chandigarh|I|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 11:59:17 GMT",
+     "sha": "3b40cf6f2f1c3d35",
+     "bytes": 369471,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Chandigarh%20Bench%20-%20Court%20No.%20I%20-%2015%20Oct%202026.pdf",
+     "loc": "Chandigarh",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List - Chandigarh Bench - Court No. I - 15 Oct 2026",
+     "count": 27
+    },
+    "Chandigarh|II|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 12:17:24 GMT",
+     "sha": "98be8634631685e9",
+     "bytes": 351160,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Chandigarh%20Bench%20-%20Court%20No.%20II%20-%2015%20Oct%202026.pdf",
+     "loc": "Chandigarh",
+     "court": "II",
+     "kind": "main",
+     "title": "Cause List - Chandigarh Bench - Court No. II - 15 Oct 2026",
+     "count": 41
+    },
+    "Mumbai|IV|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 11:59:17 GMT",
+     "sha": "ab241959d15f6049",
+     "bytes": 425003,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Mumbai%20Bench%20-%20Court%20No.IV%20-%20%2015%20October%202026.pdf",
+     "loc": "Mumbai",
+     "court": "IV",
+     "kind": "main",
+     "title": "Cause List - Mumbai Bench - Court No.IV - 15 October 2026",
+     "count": 39
+    },
+    "New Delhi|III|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 12:19:23 GMT",
+     "sha": "51db9809740722c7",
+     "bytes": 588035,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No%20III%20-%2015%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "III",
+     "kind": "main",
+     "title": "Cause List - New Delhi Bench - Court No III - 15 Oct 2026",
+     "count": 31
+    },
+    "New Delhi|V|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 12:13:25 GMT",
+     "sha": "73c0e5a12e7dd4a5",
+     "bytes": 513518,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No.%20V%20-%2015%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "V",
+     "kind": "main",
+     "title": "Cause List - New Delhi Bench - Court No. V - 15 Oct 2026",
+     "count": 32
+    },
+    "Cuttack|I|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 12:19:12 GMT",
+     "sha": "ab1dbb729cf8f519",
+     "bytes": 6946313,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-Cuttack%20Bench-Court%20No%20I-15%20Oct%202026.pdf",
+     "loc": "Cuttack",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List-Cuttack Bench-Court No I-15 Oct 2026",
+     "count": 24
+    },
+    "Kochi|I|main": {
+     "etag": "",
+     "modified": "Wed, 14 Oct 2026 11:58:33 GMT",
+     "sha": "852eb976c43be22e",
+     "bytes": 1235156,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-Kochi%20Bench-Court%20No.%20I%20-%2015%20Oct%202026.pdf",
+     "loc": "Kochi",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List-Kochi Bench-Court No.I- 15 Oct 2026",
+     "count": 22
     }
    },
-   "items": 120,
-   "fetched": "2026-10-14 17:27 IST"
+   "items": 422,
+   "fetched": "2026-10-14 17:51 IST"
   }
  },
- "updated": "2026-10-14 17:28 IST"
+ "updated": "2026-10-14 17:51 IST"
 }

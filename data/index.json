@@ -13891,11 +13891,35 @@
      "kind": "single",
      "title": "Cause List - Mumbai Bench - Court No. III - 15 OCT 2026 SINGLE BENCH",
      "count": 1
+    },
+    "Ahmedabad|II|single": {
+     "etag": "",
+     "modified": "Thu, 15 Oct 2026 04:27:52 GMT",
+     "sha": "f456542ae35e41fa",
+     "bytes": 147945,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Ahmedabad%20Bench%20-%20Single%20Bench%20-%20Court%20No.%20II%2015%20Oct%202026.pdf",
+     "loc": "Ahmedabad",
+     "court": "II",
+     "kind": "single",
+     "title": "Cause List - Ahmedabad Single Bench - Court No. II - 15 Oct 2026",
+     "count": 5
+    },
+    "New Delhi|III|supp": {
+     "etag": "",
+     "modified": "Thu, 15 Oct 2026 04:45:32 GMT",
+     "sha": "9ce1d8b429684916",
+     "bytes": 588980,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Supplementary%20Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No%20III%20-%2015%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "III",
+     "kind": "supp",
+     "title": "Supplementary Cause List - New Delhi Bench - Court No III - 15 Oct 2026",
+     "count": 32
     }
    },
-   "items": 1024,
-   "fetched": "2026-10-14 18:57 IST"
+   "items": 1061,
+   "fetched": "2026-10-15 10:31 IST"
   }
  },
- "updated": "2026-10-14 18:57 IST"
+ "updated": "2026-10-15 10:31 IST"
 }

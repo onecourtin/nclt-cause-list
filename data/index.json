@@ -13915,11 +13915,23 @@
      "kind": "supp",
      "title": "Supplementary Cause List - New Delhi Bench - Court No III - 15 Oct 2026",
      "count": 32
+    },
+    "Kochi|I|supp": {
+     "etag": "",
+     "modified": "Thu, 15 Oct 2026 08:16:00 GMT",
+     "sha": "8832567b4f0052f3",
+     "bytes": 1159385,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Supplementary%20Cause%20List-Kochi%20Bench-Court%20No.%20I%20-%2015%20Oct%202026_0.pdf",
+     "loc": "Kochi",
+     "court": "I",
+     "kind": "supp",
+     "title": "Supplementary Cause List-Kochi Bench-Court No.I- 15 Oct 2026",
+     "count": 3
     }
    },
-   "items": 1061,
-   "fetched": "2026-10-15 10:31 IST"
+   "items": 1064,
+   "fetched": "2026-10-15 13:56 IST"
   }
  },
- "updated": "2026-10-15 10:31 IST"
+ "updated": "2026-10-15 13:56 IST"
 }

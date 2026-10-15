@@ -13945,11 +13945,59 @@
      "kind": "main",
      "title": "Cause List - Guwahati Bench - Court No. I – 16 Oct 2026-1",
      "count": 12
+    },
+    "Chandigarh|I|main": {
+     "etag": "",
+     "modified": "Thu, 15 Oct 2026 11:46:06 GMT",
+     "sha": "760a94e04e94fa7f",
+     "bytes": 364377,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Chandigarh%20Bench%20-%20Court%20No.%20I%20-%2016%20Oct%202026.pdf",
+     "loc": "Chandigarh",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List - Chandigarh Bench - Court No. I - 16 Oct 2026",
+     "count": 35
+    },
+    "Hyderabad|II|main": {
+     "etag": "",
+     "modified": "Thu, 15 Oct 2026 11:50:54 GMT",
+     "sha": "8a2c8e97d599a09d",
+     "bytes": 322232,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Hyderabad%20Bench%20-%20Court%20No%20II%20-%2016%20Oct%202026.pdf",
+     "loc": "Hyderabad",
+     "court": "II",
+     "kind": "main",
+     "title": "Cause List - Hyderabad Bench - Court No II - 16 Oct 2026",
+     "count": 11
+    },
+    "Hyderabad|II|special": {
+     "etag": "",
+     "modified": "Thu, 15 Oct 2026 11:52:13 GMT",
+     "sha": "b6663538fd5a52f5",
+     "bytes": 289457,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Hyderabad%20Special%20Bench%20-%20Court%20No%20II%20-%2016.10.2026.pdf",
+     "loc": "Hyderabad",
+     "court": "II",
+     "kind": "special",
+     "title": "Cause List - Hyderabad Special Bench - Court No II - 16 Oct 2026",
+     "count": 1
+    },
+    "Kochi|I|main": {
+     "etag": "",
+     "modified": "Thu, 15 Oct 2026 11:54:16 GMT",
+     "sha": "7c06f34118b5072d",
+     "bytes": 1177104,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-Kochi%20Bench-Court%20No.%20I%20-%2016%20Oct%202026.pdf",
+     "loc": "Kochi",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List-Kochi Bench-Court No.I- 16 Oct 2026",
+     "count": 21
     }
    },
-   "items": 12,
-   "fetched": "2026-10-15 16:48 IST"
+   "items": 79,
+   "fetched": "2026-10-15 17:27 IST"
   }
  },
- "updated": "2026-10-15 16:48 IST"
+ "updated": "2026-10-15 17:27 IST"
 }

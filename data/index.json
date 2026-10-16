@@ -14677,11 +14677,23 @@
      "kind": "main",
      "title": "Cause List – Mumbai Bench – Court No. V – 21 Oct 2026",
      "count": 37
+    },
+    "Mumbai|III|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 13:34:40 GMT",
+     "sha": "21c96b6b2220e776",
+     "bytes": 791510,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Mumbai%20Bench%20-%20Court%20No.%20III%20-%2021%20OCT%20%202026.pdf",
+     "loc": "Mumbai",
+     "court": "III",
+     "kind": "main",
+     "title": "Cause List - Mumbai Bench - Court No. III - 21 OCT 2026",
+     "count": 48
     }
    },
-   "items": 273,
-   "fetched": "2026-10-16 19:00 IST"
+   "items": 321,
+   "fetched": "2026-10-16 20:48 IST"
   }
  },
- "updated": "2026-10-16 19:00 IST"
+ "updated": "2026-10-16 20:48 IST"
 }

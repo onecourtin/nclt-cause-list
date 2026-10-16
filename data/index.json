@@ -14104,15 +14104,15 @@
     },
     "New Delhi|V|main": {
      "etag": "",
-     "modified": "Thu, 15 Oct 2026 12:14:58 GMT",
-     "sha": "f14ff55d97486647",
-     "bytes": 541116,
-     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No.%20V%20-%2016%20Oct%202026.pdf",
+     "modified": "Fri, 16 Oct 2026 06:22:36 GMT",
+     "sha": "3d62e62819384bf5",
+     "bytes": 469225,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No.%20V%20%28For%20Pronouncement%29-%2016-Oct-2026.pdf",
      "loc": "New Delhi",
      "court": "V",
      "kind": "main",
-     "title": "Cause List - New Delhi Bench - Court No. V - 16 Oct 2026",
-     "count": 27
+     "title": "Cause List - New Delhi Bench - Court No. V (For Pronouncement)- 16-Oct-2026",
+     "count": 13
     },
     "Kolkata|II|main": {
      "etag": "",
@@ -14401,11 +14401,35 @@
      "kind": "supp",
      "title": "SUPPLEMENTARY CAUSE LIST - Mumbai - Bench - Court No. -II 16 Oct 2026 SPECIAL BENCH",
      "count": 2
+    },
+    "New Delhi|V|main|2": {
+     "etag": "",
+     "modified": "Thu, 15 Oct 2026 12:14:58 GMT",
+     "sha": "f14ff55d97486647",
+     "bytes": 541116,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No.%20V%20-%2016%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "V",
+     "kind": "main",
+     "title": "Cause List - New Delhi Bench - Court No. V - 16 Oct 2026",
+     "count": 27
+    },
+    "New Delhi|V|single": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 06:20:04 GMT",
+     "sha": "f514abc8e2eafc62",
+     "bytes": 486140,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%28Single%20Bench%29%20-%20Court%20No.%20V%28For%20Pronouncement%29%20-%2016%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "V",
+     "kind": "single",
+     "title": "Cause List - New Delhi Bench(Single Bench) - Court No. V(For Pronouncement) - 16 Oct 2026",
+     "count": 113
     }
    },
-   "items": 1013,
-   "fetched": "2026-10-16 10:53 IST"
+   "items": 1139,
+   "fetched": "2026-10-16 11:57 IST"
   }
  },
- "updated": "2026-10-16 10:53 IST"
+ "updated": "2026-10-16 11:57 IST"
 }

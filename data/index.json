@@ -14479,10 +14479,70 @@
      "kind": "main",
      "title": "Renotified Cause List Principal Bench New Delhi- 19 Octo 2026",
      "count": 15
+    },
+    "Ahmedabad|I|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:20:04 GMT",
+     "sha": "931e3971396f725c",
+     "bytes": 554225,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Ahmedabad%20%20Bench%20-%20Court%20No.%20I%20-19%20Oct%202026.pdf",
+     "loc": "Ahmedabad",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List - Ahmedabad Bench - Court No. I - 19 Oct 2026",
+     "count": 38
+    },
+    "Ahmedabad|II|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:22:12 GMT",
+     "sha": "639d1f301851f373",
+     "bytes": 453671,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Ahmedabad%20Bench%20-%20Court%20No.%20II%20-19%20Oct%202026.pdf",
+     "loc": "Ahmedabad",
+     "court": "II",
+     "kind": "main",
+     "title": "Cause List - Ahmedabad Bench - Court No. II - 19 Oct 2026",
+     "count": 20
+    },
+    "New Delhi|VI|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:42:20 GMT",
+     "sha": "023dd8ab66f4e23a",
+     "bytes": 657091,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20%20Court%20No.%20VI%28Renotified%29%20-%2019%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "VI",
+     "kind": "main",
+     "title": "Cause List - New Delhi Bench - Court No. VI(Renotified) - 19 Oct 2026",
+     "count": 21
+    },
+    "New Delhi|III|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:24:57 GMT",
+     "sha": "1d51a7999c1e3d28",
+     "bytes": 502276,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No%20III%20-%2019%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "III",
+     "kind": "main",
+     "title": "Cause List - New Delhi Bench - Court No III - 19 Oct 2026",
+     "count": 26
+    },
+    "New Delhi|V|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:20:22 GMT",
+     "sha": "4d4c5374f1ca6a31",
+     "bytes": 517772,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20New%20Delhi%20Bench%20-%20Court%20No.%20V%20-%2019%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "V",
+     "kind": "main",
+     "title": "Cause List - New Delhi Bench - Court No. V - 19 Oct 2026",
+     "count": 33
     }
    },
-   "items": 44,
-   "fetched": "2026-10-16 17:49 IST"
+   "items": 182,
+   "fetched": "2026-10-16 18:42 IST"
   },
   "2026-10-21": {
    "files": {
@@ -14569,11 +14629,47 @@
      "kind": "main",
      "title": "Cause List - Mumbai Bench - Court No. I - 21 Oct 2026",
      "count": 46
+    },
+    "Allahabad|I|special": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:32:13 GMT",
+     "sha": "110f7cb0fdd85622",
+     "bytes": 875954,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Allahabad%20Special%20Bench%20-%20%2021%20Oct%202026.pdf",
+     "loc": "Allahabad",
+     "court": "I",
+     "kind": "special",
+     "title": "Cause List- Allahabad Special Bench - 21 Oct 2026",
+     "count": 56
+    },
+    "Chandigarh|II|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:14:38 GMT",
+     "sha": "0dccf5b5b1ef4e82",
+     "bytes": 333617,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Chandigarh%20Bench%20-%20Court%20No.%20II%20-%2021%20Oct%202026.pdf",
+     "loc": "Chandigarh",
+     "court": "II",
+     "kind": "main",
+     "title": "Cause List - Chandigarh Bench - Court No. II - 21 Oct 2026",
+     "count": 28
+    },
+    "Guwahati|I|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:20:42 GMT",
+     "sha": "d7ea39cdb868aae1",
+     "bytes": 98947,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-%20Guwahati%20Bench-%20Court%20No.I-21.Oct_.2026.pdf",
+     "loc": "Guwahati",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List- Guwahati Bench-Court No.I-21 Oct 2026",
+     "count": 2
     }
    },
-   "items": 178,
-   "fetched": "2026-10-16 17:49 IST"
+   "items": 264,
+   "fetched": "2026-10-16 18:42 IST"
   }
  },
- "updated": "2026-10-16 17:49 IST"
+ "updated": "2026-10-16 18:42 IST"
 }

@@ -14442,6 +14442,24 @@
    "items": 1142,
    "fetched": "2026-10-16 14:56 IST"
   },
+  "2026-10-19": {
+   "files": {
+    "New Delhi|IV|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 11:10:14 GMT",
+     "sha": "152d2b4d05e30fbc",
+     "bytes": 391240,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20%E2%80%93%20New%20Delhi%20Bench%20%E2%80%93%20Court%20No.%20IV%20%E2%80%93%2019%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "IV",
+     "kind": "main",
+     "title": "Cause List – New Delhi Bench – Court No. IV – 19 Oct 2026",
+     "count": 12
+    }
+   },
+   "items": 12,
+   "fetched": "2026-10-16 16:48 IST"
+  },
   "2026-10-21": {
    "files": {
     "Mumbai|IV|main": {
@@ -14455,11 +14473,23 @@
      "kind": "main",
      "title": "Cause List - Mumbai Bench - Court No.IV - 21 October 2026",
      "count": 35
+    },
+    "Mumbai|II|special": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 11:02:26 GMT",
+     "sha": "bfcb8706742b8cb9",
+     "bytes": 507265,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/CAUSE%20LIST%20-%20Mumbai%20-%20Bench%20-%20Court%20No.%20-II%2021%20Oct%202026%20SPECIAL%20BENCH.pdf",
+     "loc": "Mumbai",
+     "court": "II",
+     "kind": "special",
+     "title": "CAUSE LIST - Mumbai - Bench - Court No. -II 21 Oct 2026 SPECIAL BENCH",
+     "count": 55
     }
    },
-   "items": 35,
-   "fetched": "2026-10-16 16:28 IST"
+   "items": 90,
+   "fetched": "2026-10-16 16:48 IST"
   }
  },
- "updated": "2026-10-16 16:28 IST"
+ "updated": "2026-10-16 16:48 IST"
 }

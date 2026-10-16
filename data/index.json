@@ -14485,11 +14485,71 @@
      "kind": "special",
      "title": "CAUSE LIST - Mumbai - Bench - Court No. -II 21 Oct 2026 SPECIAL BENCH",
      "count": 55
+    },
+    "Chandigarh|I|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 11:55:41 GMT",
+     "sha": "2d0c06e8e39f1f63",
+     "bytes": 369447,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Chandigarh%20Bench%20-%20Court%20No.%20I%20-%2021%20Oct%202026.pdf",
+     "loc": "Chandigarh",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List - Chandigarh Bench - Court No. I - 21 Oct 2026",
+     "count": 28
+    },
+    "Guwahati|I|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 11:50:02 GMT",
+     "sha": "7f9bc981d681d2f9",
+     "bytes": 98814,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-%20Guwahati%20Bench-Court%20No.I%20-21%20Oct%202026.pdf",
+     "loc": "Guwahati",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List- Guwahati Bench-Court No.I -21 Oct 2026",
+     "count": 2
+    },
+    "Kochi|I|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 11:55:34 GMT",
+     "sha": "47101cbafbb828e2",
+     "bytes": 1149391,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-Kochi%20Bench-Court%20No.%20I%20-%2021%20Oct%202026.pdf",
+     "loc": "Kochi",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List-Kochi Bench-Court No.I- 21 Oct 2026",
+     "count": 14
+    },
+    "Kochi|I|notice": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 11:53:16 GMT",
+     "sha": "c4cbd75c580075ef",
+     "bytes": 306495,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Constitution%20of%20Special%20Bench%20at%20NCLT%20Kochi%20Bench-Order%20dated%2013.10.2026.pdf",
+     "loc": "Kochi",
+     "court": "I",
+     "kind": "notice",
+     "title": "Notice - Constitution of Special Bench NCLT Kochi Bench",
+     "count": 1
+    },
+    "Kochi|I|notice|2": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 11:44:26 GMT",
+     "sha": "d6ba10ad4ea6c46c",
+     "bytes": 275451,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Non-sitting%20of%20NCLT%20Kochi%20Bench-%20from%2021.10.2026%20to%2023.10.2026%20%2026.10.2026%20to%2028.10.2026.pdf",
+     "loc": "Kochi",
+     "court": "I",
+     "kind": "notice",
+     "title": "Notice - Non Sitting OF NCLT Kochi Bench - from 21.10.2026 to 23.10.2026,26.10.2026 to 28.10.2026",
+     "count": 1
     }
    },
-   "items": 90,
-   "fetched": "2026-10-16 16:48 IST"
+   "items": 134,
+   "fetched": "2026-10-16 17:26 IST"
   }
  },
- "updated": "2026-10-16 16:48 IST"
+ "updated": "2026-10-16 17:27 IST"
 }

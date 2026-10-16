@@ -14389,11 +14389,23 @@
      "kind": "supp",
      "title": "Supplementary Cause list - Hyderabad Bench - Court No. I - 16 Oct 2026",
      "count": 1
+    },
+    "Mumbai|II|supp": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 05:05:39 GMT",
+     "sha": "41774e6951bf21f6",
+     "bytes": 360419,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/SUPPLEMENTARY%20CAUSE%20LIST%20-%20Mumbai%20-%20Bench%20-%20Court%20No.%20-II%2016%20Oct%202026%20SPECIAL%20BENCH.pdf",
+     "loc": "Mumbai",
+     "court": "II",
+     "kind": "supp",
+     "title": "SUPPLEMENTARY CAUSE LIST - Mumbai - Bench - Court No. -II 16 Oct 2026 SPECIAL BENCH",
+     "count": 2
     }
    },
-   "items": 1011,
-   "fetched": "2026-10-16 10:31 IST"
+   "items": 1013,
+   "fetched": "2026-10-16 10:53 IST"
   }
  },
- "updated": "2026-10-16 10:31 IST"
+ "updated": "2026-10-16 10:53 IST"
 }

@@ -14425,11 +14425,23 @@
      "kind": "single",
      "title": "Cause List - New Delhi Bench(Single Bench) - Court No. V(For Pronouncement) - 16 Oct 2026",
      "count": 113
+    },
+    "Kochi|I|supp": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 09:18:53 GMT",
+     "sha": "a6bf8b990e5ed22a",
+     "bytes": 1112870,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Supplementary%20Cause%20List-Kochi%20Bench-Court%20No.%20I%20-%2016%20Oct%202026.pdf",
+     "loc": "Kochi",
+     "court": "I",
+     "kind": "supp",
+     "title": "Supplementary Cause List-Kochi Bench-Court No.I-16 Oct 2026",
+     "count": 3
     }
    },
-   "items": 1139,
-   "fetched": "2026-10-16 13:02 IST"
+   "items": 1142,
+   "fetched": "2026-10-16 14:56 IST"
   }
  },
- "updated": "2026-10-16 13:03 IST"
+ "updated": "2026-10-16 14:56 IST"
 }

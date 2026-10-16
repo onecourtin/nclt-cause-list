@@ -14665,11 +14665,23 @@
      "kind": "main",
      "title": "Cause List- Guwahati Bench-Court No.I-21 Oct 2026",
      "count": 2
+    },
+    "Mumbai|V|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 13:21:27 GMT",
+     "sha": "2911b3ab8e53ec11",
+     "bytes": 679149,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20%E2%80%93%20Mumbai%20Bench%20%E2%80%93%20Court%20No.%20V%20%E2%80%93%2021%20Oct%20%202026.pdf",
+     "loc": "Mumbai",
+     "court": "V",
+     "kind": "main",
+     "title": "Cause List – Mumbai Bench – Court No. V – 21 Oct 2026",
+     "count": 37
     }
    },
-   "items": 264,
-   "fetched": "2026-10-16 18:42 IST"
+   "items": 273,
+   "fetched": "2026-10-16 19:00 IST"
   }
  },
- "updated": "2026-10-16 18:42 IST"
+ "updated": "2026-10-16 19:00 IST"
 }

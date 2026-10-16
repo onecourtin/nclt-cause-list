@@ -14441,7 +14441,25 @@
    },
    "items": 1142,
    "fetched": "2026-10-16 14:56 IST"
+  },
+  "2026-10-21": {
+   "files": {
+    "Mumbai|IV|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 10:50:06 GMT",
+     "sha": "1ddee0fb05a15819",
+     "bytes": 447014,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Mumbai%20Bench%20-%20Court%20No.IV%20-%20%2021%20October%202026.pdf",
+     "loc": "Mumbai",
+     "court": "IV",
+     "kind": "main",
+     "title": "Cause List - Mumbai Bench - Court No.IV - 21 October 2026",
+     "count": 35
+    }
+   },
+   "items": 35,
+   "fetched": "2026-10-16 16:28 IST"
   }
  },
- "updated": "2026-10-16 14:56 IST"
+ "updated": "2026-10-16 16:28 IST"
 }

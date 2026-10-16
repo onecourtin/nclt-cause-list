@@ -14455,10 +14455,34 @@
      "kind": "main",
      "title": "Cause List – New Delhi Bench – Court No. IV – 19 Oct 2026",
      "count": 12
+    },
+    "New Delhi|II|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:15:21 GMT",
+     "sha": "83b28ee8440de2d4",
+     "bytes": 1083034,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-New%20Delhi%20Bench%20-Court%20No.II%20-19%20Oct%202026.pdf",
+     "loc": "New Delhi",
+     "court": "II",
+     "kind": "main",
+     "title": "Cause List -New Delhi Bench -Court No.II -19 Oct 2026",
+     "count": 17
+    },
+    "New Delhi|I|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:11:24 GMT",
+     "sha": "6b9e83ba41ecf5c4",
+     "bytes": 375754,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Renotified%20Cause%20List%20%20Principal%20Bench%20New%20Delhi-%2019%20Octo%202026.pdf",
+     "loc": "New Delhi",
+     "court": "I",
+     "kind": "main",
+     "title": "Renotified Cause List Principal Bench New Delhi- 19 Octo 2026",
+     "count": 15
     }
    },
-   "items": 12,
-   "fetched": "2026-10-16 16:48 IST"
+   "items": 44,
+   "fetched": "2026-10-16 17:49 IST"
   },
   "2026-10-21": {
    "files": {
@@ -14498,18 +14522,6 @@
      "title": "Cause List - Chandigarh Bench - Court No. I - 21 Oct 2026",
      "count": 28
     },
-    "Guwahati|I|main": {
-     "etag": "",
-     "modified": "Fri, 16 Oct 2026 11:50:02 GMT",
-     "sha": "7f9bc981d681d2f9",
-     "bytes": 98814,
-     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-%20Guwahati%20Bench-Court%20No.I%20-21%20Oct%202026.pdf",
-     "loc": "Guwahati",
-     "court": "I",
-     "kind": "main",
-     "title": "Cause List- Guwahati Bench-Court No.I -21 Oct 2026",
-     "count": 2
-    },
     "Kochi|I|main": {
      "etag": "",
      "modified": "Fri, 16 Oct 2026 11:55:34 GMT",
@@ -14545,11 +14557,23 @@
      "kind": "notice",
      "title": "Notice - Non Sitting OF NCLT Kochi Bench - from 21.10.2026 to 23.10.2026,26.10.2026 to 28.10.2026",
      "count": 1
+    },
+    "Mumbai|I|main": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 12:16:35 GMT",
+     "sha": "e94e9fd9173e6a76",
+     "bytes": 696277,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List%20-%20Mumbai%20Bench%20-%20Court%20No.%20I%20-%2021%20Oct%202026.pdf",
+     "loc": "Mumbai",
+     "court": "I",
+     "kind": "main",
+     "title": "Cause List - Mumbai Bench - Court No. I - 21 Oct 2026",
+     "count": 46
     }
    },
-   "items": 134,
-   "fetched": "2026-10-16 17:26 IST"
+   "items": 178,
+   "fetched": "2026-10-16 17:49 IST"
   }
  },
- "updated": "2026-10-16 17:27 IST"
+ "updated": "2026-10-16 17:49 IST"
 }

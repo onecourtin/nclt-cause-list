@@ -14365,11 +14365,35 @@
      "kind": "main",
      "title": "Cause List-Chennai Bench Court 1- 16 Oct 2026",
      "count": 13
+    },
+    "Chandigarh|I|supp": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 04:40:49 GMT",
+     "sha": "430e11b675eaca24",
+     "bytes": 79807,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Supplementary%20Cause%20List%20-%20Chandigarh%20Bench%20-%20Court%20No.%20I%20-%2016%20Oct%20%202026.pdf",
+     "loc": "Chandigarh",
+     "court": "I",
+     "kind": "supp",
+     "title": "Supplementary Cause List - Chandigarh Bench - Court No. I - 16 Oct 2026",
+     "count": 2
+    },
+    "Hyderabad|I|supp": {
+     "etag": "",
+     "modified": "Fri, 16 Oct 2026 04:26:36 GMT",
+     "sha": "61324a4b40e9b18c",
+     "bytes": 209312,
+     "url": "https://nclt.gov.in/sites/default/files/pdf_cause_list/Supplementary%20Cause%20list%20%20-%20Hyderabad%20Bench%20-%20Court%20No.%20I%20%20-%2016%20%20Oct%20%202026.pdf",
+     "loc": "Hyderabad",
+     "court": "I",
+     "kind": "supp",
+     "title": "Supplementary Cause list - Hyderabad Bench - Court No. I - 16 Oct 2026",
+     "count": 1
     }
    },
-   "items": 1008,
-   "fetched": "2026-10-15 18:43 IST"
+   "items": 1011,
+   "fetched": "2026-10-16 10:31 IST"
   }
  },
- "updated": "2026-10-15 18:44 IST"
+ "updated": "2026-10-16 10:31 IST"
 }
